@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 const Hero = () => {
   return (
@@ -10,8 +11,8 @@ const Hero = () => {
                     <h1>Tahmeen Document Clearing Services LLC</h1>
                     <h2>Official page for Dubai Residences payment. Please make your payments on this page only</h2>
                     <div className="d-flex justify-content-center justify-content-lg-start">
-                        <a href="#contact" className="btn-get-started scrollto">Get Started</a>
-                        <a href="#contact" className="glightbox btn-watch-video"><i className="bi bi-play-circle"></i><span>Pay Here</span></a>
+                        <Link href="#contact" className="btn-get-started scrollto">Get Started</Link>
+                        <Link href="#contact" className="glightbox btn-watch-video"><i className="bi bi-play-circle"></i><span>Pay Here</span></Link>
                     </div>
                 </div>
                 <div className="col-lg-6 order-1 order-lg-2 hero-img">

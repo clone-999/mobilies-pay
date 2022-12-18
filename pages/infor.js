@@ -1,10 +1,9 @@
 import React from 'react';
 import Layout from '../components/Layout';
 import TopNav from '../components/TopNav';
-import Hero from '../components/Hero';
-import GooglePayButton from '@google-pay/button-react';
 import { useRouter } from 'next/router';
 import Footer from '../components/Footer';
+import Link from 'next/link';
 
 export default function Home() {
   const router = useRouter();
@@ -22,7 +21,7 @@ export default function Home() {
                         <h1>Thank You</h1>
                         <h2>Thank you for your payment. We will revert back to you as soon as possible on the next steps.</h2>
                         <div className="d-flex justify-content-center justify-content-lg-start">
-                            <a href="/" className="btn-get-started scrollto">Back to Home</a>
+                            <Link href="/" className="btn-get-started scrollto">Back to Home</Link>
                         </div>
                     </div>
                     <div className="col-lg-6 order-1 order-lg-2 hero-img">
