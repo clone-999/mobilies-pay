@@ -24,6 +24,63 @@ export default function Home() {
             </div>
           </section>
 
+          <section id="about" className="about">
+            <div className="container">
+              <div className="section-title">
+                <h2>About The Residency</h2>
+              </div>
+
+              <div className="row content">
+                <div className="col-lg-6">
+                  <p>
+                    Tahmeen Group is a group of companies composed of multiple licenses for different business sectors such as IT, Business & Company Setup, Human Resources, Documents Clearing Services, Real Estate / Holiday homes. 
+                  </p>
+                  <p>
+                    This advert is based on the Human Resourses sector as we are partners to different companies in Dubai requesting for employees. So far we have setup over 50 companies and businesses and over 100 residencies in Dubai over the years. This is why we able to provide this opportunity to you.
+                  </p>
+
+                  <p>
+                    Benefits: Please the full benefits are mentioned bellow
+                  </p>
+                  <ul>
+                    <li>* You can travel in and out of Dubai/UAE without visa at any time.</li>
+                    <li>* NOC Bank Account</li>
+                    <li>* You can travel to some countries without visa at any time</li>
+                    <li>* No Objection Certificate (NOC) will be given to you to work in any company in UAE or to
+freelance.</li>
+                    <li>* Getting visa and travelling to Canada, USA, Australia and other countries will be very easy
+with your Emirates ID.</li>
+                    <li>* Managerial or Middlecareer level position will be mentioned on your residence to enable you
+travel and add your family members to the visa at some additional cost.</li>
+                    
+                  </ul>
+                </div>
+
+                <div className="col-lg-6 pt-4 pt-lg-0">
+                  <ul>
+                  <li>* A salary/commission of 5,000 AED and above will be indicated on your residence to enable
+you travel. It is advisable to deposit minimum of 5,000 AED to our company if you want to
+build your account to enable you enjoy full benefits of travelling and salary commission to be
+indicated in your account.</li>
+                    <li>* It means you are entitled to sponsor your family on your visa and free consultancy service
+pertaining to your happy stay in UAE.</li>
+                    <li>* NOC Driver’s license.</li>
+                    <li>* You will be allowed to travel to the following countries without visa: the below countries
+without visa: Georgia, Armenia, Azerbaijan and Thailand.</li>
+                  </ul>
+                  
+                  <p>Requirements: The following is what will be required of you;</p>
+                  <ul>
+                    <li>* You are to pay the cost of your own 2 years residency visa. this gives you more advantage since major companies here give more priority to candidates with their own residency. This is a freelance visa which doesn't tie you to any job you work for, which means you are at liberty to change jobs at any time if you are unsatisfied with current job.</li>
+                    <li>* Send your international passport</li>
+                    <li>* Your photo passport with white background</li>
+                    <li>* Your last living school certificate with attestation (if available)</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </section>
+
           <section id="contact" className="contact">
             <div className="container">
               <div className="section-title">
