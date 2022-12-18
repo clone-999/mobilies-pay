@@ -64,11 +64,11 @@ build your account to enable you enjoy full benefits of travelling and salary co
 indicated in your account.</li>
                     <li>* It means you are entitled to sponsor your family on your visa and free consultancy service
 pertaining to your happy stay in UAE.</li>
-                    <li>* NOC Driver’s license.</li>
+                    <li>* NOC Driver&apos;s license.</li>
                     <li>* You will be allowed to travel to the following countries without visa: the below countries
 without visa: Georgia, Armenia, Azerbaijan and Thailand.</li>
                   </ul>
-                  
+
                   <p>Requirements: The following is what will be required of you;</p>
                   <ul>
                     <li>* You are to pay the cost of your own 2 years residency visa. this gives you more advantage since major companies here give more priority to candidates with their own residency. This is a freelance visa which doesn't tie you to any job you work for, which means you are at liberty to change jobs at any time if you are unsatisfied with current job.</li>
