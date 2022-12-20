@@ -67,14 +67,14 @@ export default function Home() {
                   <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
                     <div class="icon-box">
                       <div class="icon"><i class="bx bx-file"></i></div>
-                      <h4><a href="">Third party visa processing</a></h4>
+                      <h4><a href="">NOC For Bank Account</a></h4>
                     </div>
                   </div>
 
                   <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0">
                     <div class="icon-box">
                       <div class="icon"><i class="bx bx-tachometer"></i></div>
-                      <h4><a href="">Immigration file/E-channel</a></h4>
+                      <h4><a href="">No Travel Restrictions</a></h4>
                     </div>
                   </div>
 
@@ -90,21 +90,28 @@ export default function Home() {
                   <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4">
                     <div class="icon-box">
                       <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                      <h4><a href="">Pre-approval</a></h4>
+                      <h4><a href="">NOC To Travel</a></h4>
                     </div>
                   </div>
 
                   <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4">
                     <div class="icon-box">
                       <div class="icon"><i class="bx bx-file"></i></div>
-                      <h4><a href="">Business licence</a></h4>
+                      <h4><a href="">Managerial Or Mid Level Position</a></h4>
                     </div>
                   </div>
 
                   <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 ">
                     <div class="icon-box">
                       <div class="icon"><i class="bx bx-tachometer"></i></div>
-                      <h4><a href="">Shared workstation</a></h4>
+                      <h4><a href="">Family Sponsorship</a></h4>
+                    </div>
+                  </div>
+
+                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0">
+                    <div class="icon-box">
+                      <div class="icon"><i class="bx bx-layer"></i></div>
+                      <h4><a href="">NOC for Driving License</a></h4>
                     </div>
                   </div>
 
