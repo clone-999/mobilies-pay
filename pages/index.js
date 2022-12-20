@@ -108,7 +108,7 @@ export default function Home() {
                     </div>
                   </div>
 
-                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0">
+                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4">
                     <div class="icon-box">
                       <div class="icon"><i class="bx bx-layer"></i></div>
                       <h4><a href="">NOC for Driving License</a></h4>
