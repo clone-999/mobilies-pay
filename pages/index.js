@@ -13,7 +13,6 @@ export default function Home() {
     "client-id": "AS82j75vmsBnfQIRVvMBSH_fCxnLp-QgnKPS-CXTLz88_LiSNsUnQqoWN6LJQsIaEe-txHk4xXdYIzf3",
     currency: "USD",
     intent: "capture",
-    "data-client-token": "abc123xyz==",
   };
 
   return (
@@ -124,24 +123,24 @@ export default function Home() {
                       <div className='col-lg-12'>
                         <PayPalButtons 
                           style={{ layout: "horizontal" }}
+
                           createOrder={(data, actions) => {
                             return actions.order.create({
                                 purchase_units: [
                                     {
                                         amount: {
-                                            value: "1.99",
+                                            value: "1.00",
                                         },
                                     },
                                 ],
                             });
-                          }} 
-
+                          }}
                           onApprove={(data, actions) => {
-                            return actions.order.capture().then((details) => {
-                                const name = details.payer.name.given_name;
-                                alert(`Transaction completed by ${name}`);
-                            });
-                          }} 
+                              return actions.order.capture().then((details) => {
+                                  const name = details.payer.name.given_name;
+                                  alert(`Transaction completed by ${name}`);
+                              });
+                          }}
                         />
                       </div>
                       <div className='col-lg-12'>
