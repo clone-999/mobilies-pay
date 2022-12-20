@@ -120,6 +120,22 @@ export default function Home() {
               </div>
             </section>
 
+            <section id="cta" class="cta">
+              <div class="container">
+
+                <div class="row">
+                  <div class="col-lg-9 text-center text-lg-start">
+                    <h3>You Have Questions?</h3>
+                    <p> We pride in giving you satisfactory services. For more clearifications and questions regarding our services, do not hesitate to contact us</p>
+                  </div>
+                  <div class="col-lg-3 cta-btn-container text-center">
+                    <a class="cta-btn align-middle" href="#contact">Talk To Us</a>
+                  </div>
+                </div>
+
+              </div>
+            </section>
+
             <section id="contact" className="contact">
               <div className="container">
                 <div className="section-title">
